@@ -38,7 +38,7 @@ The two layers answer different questions: the API tests check that the logic wo
 
 1. Clone the repository and move into the folder:
 ```
-git clone <repo-url>
+git clone https://github.com/kfcmartin/qa-test_automation_suite.git
 cd qa-executive-assist-co
 ```
 2. Install dependencies:
