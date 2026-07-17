@@ -1,4 +1,4 @@
-# QA Take-Home Assessment (Part 1: Test Automation)
+# API & UI Test Automation Suite
 
 *Keith Florence Martin*
 
